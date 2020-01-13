@@ -8,7 +8,7 @@ Program to show Hello From Femi and basically improved drastically to fit into t
 ![Alt Text] (https://recordit.co/pNWEwnGkHT)<br>
 
 ### Required User Stories
-- [x] 1. User sees custom text in a label - Hello from {name}!
+- [ ] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
 - [x] 3. User can tap a button to change the text color of the label.
 
