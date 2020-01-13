@@ -1,11 +1,11 @@
-## HelloWorld-androidAppE
+## HelloWorld-androidApp
 
 ### App Description
 Program to show Hello From Femi and basically improved drastically to fit into the User stories below
 
 ### App Walk-though
 
-<img src="https://recordit.co/pNWEwnGkHT" width=200><br>
+<img src="https://recordit.co/pNWEwnGkHT" width=200 height= "40"><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
