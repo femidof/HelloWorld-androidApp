@@ -5,8 +5,7 @@ Program to show Hello From Femi and basically improved drastically to fit into t
 
 ### App Walk-though
 
-<img src="https://media.giphy.com/media/TIQvDmDSCUkcU9Ghy6/giphy.gif" width=200>
-<img src="https://media.giphy.com/media/dUftn8QUeEgZ91xxbR/giphy.gif" width=200><br>
+<img src="https://media.giphy.com/media/TIQvDmDSCUkcU9Ghy6/giphy.gif" width=200> <img src="https://media.giphy.com/media/dUftn8QUeEgZ91xxbR/giphy.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
